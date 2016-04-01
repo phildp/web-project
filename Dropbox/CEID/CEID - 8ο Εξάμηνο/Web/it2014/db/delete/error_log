@@ -1,2 +1,0 @@
-[12-Jun-2014 22:19:06 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/panoikia/public_html/it2014/delete/delete_cat.php:11) in /home/panoikia/public_html/it2014/delete/delete_cat.php on line 27
-[12-Jun-2014 22:21:28 Europe/Athens] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/panoikia/public_html/it2014/delete/delete_cat.php:11) in /home/panoikia/public_html/it2014/delete/delete_cat.php on line 27
